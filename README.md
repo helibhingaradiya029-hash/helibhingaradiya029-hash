@@ -132,21 +132,9 @@ My goal is to create applications where the **architecture can grow with the pro
   <a href="https://github.com/helibhingaradiya029-hash">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/helibhingaradiya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helibhingaradiya029-hash&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helibhingaradiya029-hash&theme=transparent&hide_border=true" />
 </p>
 
 ---
