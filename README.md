@@ -2,7 +2,7 @@
 ### Mobile Engineer | Android & Kotlin Multiplatform
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
 </p>
 
 ---
